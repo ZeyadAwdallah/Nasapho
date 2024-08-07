@@ -2,7 +2,7 @@
 
 #### Overview
 
-Nasapho is a simple React application that fetches and displays the NASA Astronomy Picture of the Day (APOD) using the NASA API. The application caches the data in `localStorage` to avoid redundant API calls and improve performance. Users can view the picture of the day along with its title and explanation, and access additional details through a modal sidebar.
+Nasapho is a simple React application that fetches and displays the NASA Astronomy Picture of the Day `(APOD)` using the NASA API. The application caches the data in `localStorage` to avoid redundant API calls and improve performance. Users can view the picture of the day along with its title and explanation, and access additional details through a modal sidebar.
 
 #### Application Structure
 
